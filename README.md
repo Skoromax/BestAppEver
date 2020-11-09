@@ -1,0 +1,1 @@
+Учебный проект Android Academy 2020 https://android-academy-global.github.io/
